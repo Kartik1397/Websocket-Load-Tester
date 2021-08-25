@@ -8,7 +8,7 @@ multipass launch -n my-test-vm --cloud-init cloud-init.yml
 ```
 Open bash
 ```
-multipass exec my-test-vm-2 -- bash
+multipass exec my-test-vm -- bash
 ```
 Start testing
 ```
